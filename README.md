@@ -10,7 +10,7 @@ To visit different images
    <link rel="stylesheet" href="IMAGE1.css">
     </head>
 <body>
-    <div class="container"">
+    <div class="container">
      <div
       class="slide"
       style="background-image: url('1.jpeg');">
