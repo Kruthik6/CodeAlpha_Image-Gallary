@@ -41,6 +41,6 @@ To visit different images
       <h3>BIRD</h3>
     </div>
      </div>
-     <script src="IMAGE1.js"></script>
+                <script src="IMAGE1.js"></script>
      </body>
     </html>
